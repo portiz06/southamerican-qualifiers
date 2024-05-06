@@ -14,3 +14,11 @@ Additionally, considering the variants previously made and addressing concerns e
 
 ### Code and Usage
 The project contains the necessary code to solve the linear programming problem and generate a new fixture for the South American qualifiers in ZPL format, with each formulated variation. To obtain the solution, simply execute the desired file in SCIP or another integer programming framework.
+
+
+### Authors
+
++ Alvarez Colombo, Juan Ignacio
++ Comerso Salzer, Delfina Belen
++ Ortiz, Pedro
++ Sanchez Goicochea, Jhosept Levyt
